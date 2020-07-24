@@ -11,6 +11,10 @@ Examples include:
 * 2 + 5
 * (3^2-3+5) = 11
 * 2 * (2 + 4) = 12
+* [2 + 43] * 2 = 90
+* ([2 + 43] * 2) / 2 = 45
+* 18 % 2 = 0
+* 5 % 2 = 1
 
 ## Main Take Away
 I had written so many tests for this assignment.  It was not until afterwards 
